@@ -1,0 +1,33 @@
+.sidenav {
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 15%; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: #ffffff; /* Black */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    box-shadow: 1px 0px 10px 0px;
+    padding-top:150px;
+  }
+
+  .icons{
+      width:8%;
+      height:12%;
+      margin-top:10px;
+      margin-bottom:10px;
+      position: relative;
+      right:-40%;
+  }
+
+  li{
+      list-style-type: none;
+  }
+
+  #copyDivHoverIndicator{
+    width: 7px;
+    height: 42px;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+  }

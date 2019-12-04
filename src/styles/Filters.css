@@ -1,0 +1,21 @@
+select{
+    margin:10px;
+}
+
+.filters{
+    text-align: left;
+    margin-top:20px;
+}
+
+#clearFilterBtn{
+    border: none;
+    background-color: white;
+    font-size: 14px;
+    color: #717171;
+}
+
+#sortDiv{
+    text-align: right;
+    position: relative;
+    right:-180px;
+}

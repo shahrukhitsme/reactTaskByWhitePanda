@@ -1,0 +1,103 @@
+#firstSection{
+    width:40%;
+}
+
+#title{
+    width: 100%;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#titleText{
+    position: relative;
+    top: -9px;
+}
+
+#booktype{
+    width: 25%;
+    border-right-style: solid;
+    border-right-width: 2px;
+}
+
+#industry{
+    width: 30%;
+    border-right-style: solid;
+    border-right-width: 2px;
+}
+
+#length{
+    width: 20%;
+}
+
+#price{
+    font-weight: bold;
+    width:10%;
+}
+
+#status{
+    width:16%;
+}
+
+#rating{
+    width:14%;
+}
+
+#btn{
+    width:12%;
+}
+
+#listElem{
+    border-width: 1px;
+    border-color: rgb(223, 223, 223);
+    border-style: solid;
+    margin: 5px;
+    padding:10px;
+}
+
+.statusLbl{
+    padding:5px 20px 5px 20px;
+    border-radius: 20px;
+    color: white;
+}
+
+.starIcon{
+    height:17px;
+    width: 17px;
+}
+
+.ratingNum{
+    display:inline-block;
+    font-size: 20px;
+    vertical-align: sub;
+    padding-left:6px;
+}
+
+button{
+    border-style: solid;
+    border-width: 1px;
+    font-size: 15px;
+    width: 120px;
+    height: 35px;
+    border-radius: 7px;
+    font-weight: 600;
+}
+
+.reviseButton{
+    background-color: teal;
+    color: white;
+}
+
+.viewButton{
+    background-color: white;
+    color: teal;
+}
+
+.reviseButton:hover{
+    background-color: white;
+    color: teal;
+}
+
+.viewButton:hover{
+    background-color: teal;
+    color: white;
+}

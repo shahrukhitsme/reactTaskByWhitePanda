@@ -1,0 +1,43 @@
+.header{
+    height:100px;
+    top:0;
+    position:fixed;
+    background-color:black;
+    left:15%;
+    width:85%;
+    z-index:1;
+}
+
+#logo{
+    width:fit-content;
+    height:100px;
+    padding-top: 28px;
+    padding-left: 20px;
+}
+
+#notification{
+    right:80px;
+    top:0;
+    position: absolute;
+}
+
+#profile{
+    right:20px;
+    position:absolute;
+    width:60px;
+    height:60px;
+    border-radius:30px;
+}
+
+#profileDiv{
+    padding:20px;
+    right:0px;
+    top:0;
+    position: absolute;
+}
+
+#bellIcon{
+    height:80px;
+    padding-top: 25px;
+    margin-right: 20px;
+}
